@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    background-color: greenyellow;
+    height: 600px;
+}
+
+.container .box-1 {
+    flex-basis: 33%;
+}
+
+.container .box-2 {
+    flex-basis: 33%;
+}
+
+.container .box-3 {
+    flex-basis: 33%;
+}
+.container div {
+    border: 1px solid black;
+    padding: 10px;
+}
