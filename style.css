@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-direction: row;
-    background-color: greenyellow;
+    background-color: red;
     height: 600px;
 }
 
